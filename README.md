@@ -12,6 +12,7 @@ Other Interests:
 - 🦄 I compete in show jumping at open level
 - 🎼 I enjoy music and have played up to grade 6 piano
 - 📚 I love reading, particularly fantasy novels
+- 🐾 I help run an NPC for rescuing animals with my family called the African Sanctuary
 
 
 <!--
