@@ -7,6 +7,7 @@ About me:
 - 🤓 I currently hold a part time research assistant position at UKZN
 - 💻 I am also furthering my data scinece skills through Qwiklabs
 - 👀 I am looking to get into a career in data science
+
 Other Interests:
 - 🦄 I compete in show jumping at open level
 - 🎼 I enjoy music and have played up to grade 6 piano
