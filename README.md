@@ -1,31 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Kathleen
+
+I am a Postdoctoral Researcher at the University of KwaZulu-Natal (UKZN), Durban, South Africa, with a PhD in Applied Mathematics specialising in theoretical astrophysics and pulsar research. My work combines mathematical modelling, computational research, numerical analysis, and scientific problem-solving.
+
+I am also actively developing my skills in data science, machine learning, and AI-related applications, and I am interested in roles where I can apply my research, analytical, and programming background to real-world data-driven problems.
 
 About me:
-- 🎓 I have a PhD in Astrophysics which I completed in December 2023 at the University of KwaZulu-Natal (UKZN)
-- 👩‍💻 I completed an online data science course in March 2024 through HyperionDev for which I finished top out of 619 students
-- 👩‍🏫 I have done adhoc lecturing for first year mathematics UKZN
-- 🤓 I currently hold a part time research assistant position at UKZN
-- 💻 I am also furthering my data scinece skills through Qwiklabs
-- 👀 I am looking to get into a career in data science
 
-Other Interests:
-- 🦄 I compete in show jumping at open level
-- 🎼 I enjoy music and have played up to grade 6 piano
-- 📚 I love reading, particularly fantasy novels
-- 🐾 I help run an NPC for rescuing animals with my family called the African Sanctuary
+* 🎓 PhD in Applied Mathematics from the University of KwaZulu-Natal, focused on theoretical pulsar and neutron-star research
+* 🔭 Currently a Postdoctoral Researcher at UKZN working on computational astrophysics and magnetic-field evolution in radio pulsars
+* 👩‍💻 Completed the HyperionDev Data Science Bootcamp, ranking 1st out of 619 students with a 99% task average
+* 📊 Interested in data science, machine learning, AI systems, research, modelling, and quantitative problem-solving
+* 👩‍🏫 Experienced in lecturing and tutoring mathematics at university and school level
+* 💻 Continuing to build my technical skills through self-study, coding projects, and data-focused learning
 
+Other interests:
 
-<!--
-**KasSellick/KasSellick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🦄 I previously competed in show jumping at open level
+* 🎼 I enjoy music and have played piano up to Grade 6
+* 📚 I love reading, especially fantasy novels
+* 🐾 I help run a small registered animal welfare NPC with my family, The African Sanctuary, which supports animal rescue and community needs in Summerveld, South Africa
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me on LinkedIn: [www.linkedin.com/in/kathleen-sellick-55139468](http://www.linkedin.com/in/kathleen-sellick-55139468)
